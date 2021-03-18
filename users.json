@@ -1,27 +1,29 @@
 {
-{
-"user" : "Андрей",
-"password" : "andr"
-},
-
-{
-"user" : "Сережа",
-"password" : "serg"
-},
-
-{
-"user" : "Саша",
-"password" : "sasha"
-},
-
-{
-"user" : "Костя",
-"password" : "kost"
-},
-
-{
-"user" : "Антон",
-"password" : "ant"
-}
-
+	users
+	{
+		{
+		"user" : "Андрей",
+		"password" : "andr"
+		},
+		
+		{
+		"user" : "Сережа",
+		"password" : "serg"
+		},
+		
+		{
+		"user" : "Саша",
+		"password" : "sasha"
+		},
+		
+		{
+		"user" : "Костя",
+		"password" : "kost"
+		},
+		
+		{
+		"user" : "Антон",
+		"password" : "ant"
+		}
+	}
 }
